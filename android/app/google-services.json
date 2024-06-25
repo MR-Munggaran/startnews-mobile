@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "991107623196",
+    "project_id": "pemrograman-bergerak-6d839",
+    "storage_bucket": "pemrograman-bergerak-6d839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991107623196:android:05a7ecf0b59c6e0eb2f2d9",
+        "android_client_info": {
+          "package_name": "com.startnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNz9BaxvTW5BykUzqB5axKgx6kr2UzSBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991107623196:android:2cacd3b2e49b3c8bb2f2d9",
+        "android_client_info": {
+          "package_name": "com.uaspember"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNz9BaxvTW5BykUzqB5axKgx6kr2UzSBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
